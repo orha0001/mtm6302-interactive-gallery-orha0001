@@ -9,7 +9,7 @@ const imagesObject = [
     src: 'images/verstappen.png',
     large: 'images/verstappen-big.png',
     caption: 'Max Verstappen',
-    alt: 'Verstappen',
+    alt: 'Verstappen', 
   },
 
   {
